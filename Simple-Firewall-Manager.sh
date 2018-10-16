@@ -41,7 +41,7 @@ case "$dec" in
 exit 1
 esac
 
-echo "[1] Show Open Ports and Services  [2] Open Port   [3] Remove Port [4] Add Service [5] Remove Service [6] EXIT"
+echo "[1] Show Open Ports and Services  [2] Open Port   [3] Remove Port [4] Add Service [5] Remove Service [6] Save and EXIT"
 read dec
 done
 
